@@ -1,1 +1,2 @@
-My second readme
+My second readme.
+An update through github.
